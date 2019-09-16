@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+                <title>My First Webpage</title>
+        
+    </head>
+    <body>
+        <!--navigation-->
+	<header>
+        <img id="logo" src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/04/12185602/Lagotto-Romangolo-Tongue-Out.jpg"
+        <nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/cSd5gYfRgoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                
+     <h1>It's a Dog's World</h1>
+         <header>
+        <p>Dogs in the United States are very popular and are so loved that they are treated as one of the family. 
+           According to Wikipedia In 2012, there were 83.3 million dogs and about 47% of households had a dog. 
+            About 70% of the owners have only one dog, while about 20% of the owners have two dogs. In 2017, there were about 1.5 pet dogs per household.
+                </p>
+      Your dog is your best friend but there's a lot you might not know about him! Whether your dog is young or old, these fun facts about dogs will give you 101 new reasons to love your furry friend:
+             <ul>
+  <li>There are about 400 million dogs in the world</li>
+  <li>Dogs can learn more than 1000 words.</li>
+  <li>The Labrador Retriever is the most popular breed.</li>
+</ul>
+                
+                <li><a href="about.html">About Us</a></li>
+              <h1>It's a Dog's World</h1>
+         <header>
+             <p>At Duckster's our goal is to provide a fun and educational web site with lots of interesting content. We try to write articles that are informative, easy to read, and interesting.
+
+                We hope to provide an informative place for people to learn, explore, and use the internet for research.</p>
+              <img id="logo" src="https://www.ducksters.com/animals/bigdog.jpg" alt="germanshepar">
+              <img id="logo" src="https://www.ducksters.com/animals/chocolate_lab.jpg alt="labradorretriever">
+              <img id="logo" src="   https://www.ducksters.com/animals/yorkshire_terrier.jpg alt=yorkshireterrier">
+             
+             <h2>More Fun Facts About Dogs</h2>
+             
+             
+             
+                </header>
+             
+                   
+                   
+                   
+                   
+               
+                <!  Contact Form  >
+                <h1>Contact Me</h1>
+                <form>
+                  <label> Full Name<br>
+                  <input type="text" name="fn" required>
+                  <label>
+                  <br>
+                  <p>Preferred Contact</p>
+                  <label>
+                  input type="radio" name="pc" value="phone"> Phone
+                  </label>
+                  <br>
+                   <label>
+                  input type="radio" name="pc" value="email"> Email
+                  </label>
+                  <br>
+                  <label>Message<br>
+                  <textarea name="msg"></textarea>
+                  </label>
+                  <br>
+                  <input> type="submit" value="Email Now">
+                  
+                  
+                  
+                  
+                  
+                  
+                                          
+                <footer>
+                &copy; 2019 All Rights Reserved
+                                                                                  
+                  <li><a href="contact.html">Contact Us</a></li>                         
+                               
+                
+                
+       
+        
